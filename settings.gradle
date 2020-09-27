@@ -1,0 +1,3 @@
+include ':joke_data'
+include ':joke_domain'
+include ':app'

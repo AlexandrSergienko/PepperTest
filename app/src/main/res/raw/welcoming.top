@@ -1,0 +1,7 @@
+topic: ~welcoming()
+
+proposal: %welcoming Say Hello Pepper to start the discussion.
+
+u:(Hello Pepper) hello
+
+u:(goodbye) It was a pleasure! %goodbye
